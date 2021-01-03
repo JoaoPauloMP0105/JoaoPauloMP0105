@@ -42,7 +42,7 @@
 ### Project in developer
 <div align="center">
   <h1>Project "UNG Arduino Oamet's"</h1>
-  <h1 align="center" styled="text-decoration: none"> <a href="https://comunidade-ung-arduino.vercel.app/">UNG Arduino Oamet's</a>
+  <h1 align="center" styled="text-decoration: none"> <a href="https://comunidadeungarduino.000webhostapp.com/">UNG Arduino Oamet's</a>
   </h1>
   <p> Project created in 2017 by developers, alumni, makers and by loveing tecnologic.  </P>
   <p> Adress:  R. Eng. Prestes Maia, 88 - Centro, Guarulhos - SP, 07023-070 </p>
